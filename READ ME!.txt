@@ -1,0 +1,1 @@
+To Excecute the Application Pls open INDEX.php

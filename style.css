@@ -1,0 +1,59 @@
+body{
+    /* background: #F0F4FB; */
+    background: white;
+}
+.mainDiv{
+    padding:20px;
+}
+img.div1{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    opacity: 0.8;
+}
+.facultyDetails{
+    margin-left: 24%;
+    border: 3px solid #1D3B68;
+    border-radius: 2em;
+    width:50%;
+    height: auto;
+    color:#305287;
+    font-weight: normal; 
+}
+.facultyDetails img{
+    margin-left: 20px;
+    margin-top: 10px;
+    padding:10px;   
+}
+.facultyContent{
+    color:#1D3B68;
+    font-size:15px;
+    font-weight: bold;  
+}
+.dropdowns{
+    padding:20px;
+    color:#1D3B68;
+    font-weight: bold;  
+}
+.drops{
+    padding: 10px;
+}
+
+.dropbtn {
+
+  background: #6B5B95;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+
+
+}
+
+.youtube
+    {
+      margin-top: 20px;
+      display: inline-block;
+      margin-left:20px; 
+    }
